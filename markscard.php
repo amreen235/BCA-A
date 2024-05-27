@@ -50,7 +50,6 @@ if ($result->num_rows > 0) {
         echo "<td>" . $row["name"] . "</td>";
         echo "<td>" . $row["subject"] . "</td>";
         echo "<td>" . $row["marks"] . "</td>";
-        echo "<td>"
         echo "</tr>";
     }
 
