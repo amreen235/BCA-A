@@ -51,6 +51,7 @@ if ($result->num_rows > 0) {
         echo "<td>" . $row["subject"] . "</td>";
         echo "<td>" . $row["marks"] . "</td>";
         echo "</tr>";
+        echo "</tr>";
     }
 
 } else {
