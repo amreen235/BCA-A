@@ -54,13 +54,12 @@ if ($result->num_rows > 0) {
         echo "</tr>";
     }
 
-    echo "</table>";
 } else {
     echo "No records found";
 }
 
 $conn->close();
 ?>
-
+myname = "myname";
 </body>
 </html>
