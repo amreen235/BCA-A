@@ -60,6 +60,6 @@ if ($result->num_rows > 0) {
 
 $conn->close();
 ?>
-
+myname = "myname";
 </body>
 </html>
