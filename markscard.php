@@ -58,7 +58,7 @@ if ($result->num_rows > 0) {
     echo "No records found";
 }
 
-$conn->close()
+$conn->close();
 ?>
 
 </body>
